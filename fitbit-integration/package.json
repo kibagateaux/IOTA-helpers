@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "iota.lib.js": "^0.4.7"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.18.0"
+  }
+}
